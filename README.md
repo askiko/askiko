@@ -10,7 +10,7 @@
   - [Unauthorized Exposure of Buyer PII via GraphQL API (Brocken Access Control)](https://github.com/askiko/)
   - [Unauthorized Access To Pro-only Analytics and Internal MCP Connector Schemas Via analyticsChat mutation (Privilage Escalation)](https://github.com/askiko/)
 - <b>Automation Tools (Python)</b>
-  - [Domain hunter & recon tool](https://github.com/askiko/)
+  - [Domain hunter & recon tool](https://github.com/askiko/recon_tooling)
     
 <h2> 🤳 Connect with me:</h2>
 
