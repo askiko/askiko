@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Enterprise Active Directory Building and Monitoring Lab</b>
-  - [Setting up AD and configuring Splunk & password policies](https://github.com/askiko)
+  - [Setting up AD and configuring Splunk & password policies](https://github.com/askiko/ActiveDirectoryMonitoring)
 - <b>Enterprise Active Directory Security Testing Lab (From above AD)</b>
   - [AD mapping, Pivoting & Privilege Escalation](https://github.com/askiko)
 - <b>BugBounty Writeups</b>
