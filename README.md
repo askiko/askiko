@@ -5,7 +5,7 @@
 - <b>Enterprise Active Directory Building and Monitoring Lab</b>
   - [Setting up AD and configuring Splunk & password policies](https://github.com/askiko/ActiveDirectoryMonitoring)
 - <b>Enterprise Active Directory Security Testing Lab (From above AD)</b>
-  - [AD mapping, Pivoting & Privilege Escalation](https://github.com/askiko)
+  - [AD mapping, Pivoting & Privilege Escalation](https://github.com/askiko/ad_attack_simulation)
 - <b>BugBounty Writeups</b>
   - [GraphQL API Broken Access Control Leading to Buyer PII Exposure](https://github.com/askiko/pii_exposure)
   - [Unauthorized Access To Pro-only Analytics and Internal MCP Connector Schemas Via analyticsChat mutation (Privilage Escalation)](https://github.com/askiko/analiyticsChat_bac/)
