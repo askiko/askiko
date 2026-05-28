@@ -7,7 +7,7 @@
 - <b>Enterprise Active Directory Security Testing Lab (From above AD)</b>
   - [AD mapping, Pivoting & Privilege Escalation](https://github.com/askiko)
 - <b>BugBounty Writeups</b>
-  - [Unauthorized Exposure of Buyer PII via GraphQL API (Brocken Access Control)](https://github.com/askiko/)
+  - [GraphQL API Broken Access Control Leading to Buyer PII Exposure](https://github.com/askiko/)
   - [Unauthorized Access To Pro-only Analytics and Internal MCP Connector Schemas Via analyticsChat mutation (Privilage Escalation)](https://github.com/askiko/)
 - <b>Automation Tools (Python)</b>
   - [Domain hunter & recon tool](https://github.com/askiko/recon_tooling)
