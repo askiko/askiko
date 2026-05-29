@@ -5,7 +5,7 @@
 - <b>Enterprise Active Directory Building and Monitoring Lab</b>
   - [Setting up AD and configuring Splunk & password policies](https://github.com/askiko/ActiveDirectoryMonitoring)
   <br/>
-- <b>Enterprise Active Directory Security Testing Lab (From above AD)</b>
+- <b>Enterprise Active Directory Security Testing Lab</b>
   - [Web app security testing, linux privilege escalation, network pivoting & active directory attack simulation](https://github.com/askiko/ad_attack_simulation)
   <br/>
 - <b>BugBounty Writeups</b>
