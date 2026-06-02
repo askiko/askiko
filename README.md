@@ -1,4 +1,4 @@
-<h1>Hi, I'm Asbel Kosgei! <br/><a href="https://github.com/askiko">Cybersecurity Professional</a>, <a href="https://bugcrowd.com/h/askiko/">BugBounty Hunter</a>, <a href="https://upwork.com/askiko">Freelancer</a></h1>
+<h1>Hi, I'm Asbel Kosgei! <br/><a href="https://github.com/askiko">Cybersecurity Professional</a>, <a href="https://bugcrowd.com/h/askiko/">BugBounty Hunter</a>, <a href="https://www.upwork.com/freelancers/~01040b6d82e95de58b">Freelancer</a></h1>
 
 <h2> CyberSecurity Projects:</h2>
 
