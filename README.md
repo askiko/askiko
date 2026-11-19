@@ -9,8 +9,10 @@
   - [Web app security testing, linux privilege escalation, network pivoting & active directory attack simulation](https://github.com/askiko/ad_attack_simulation)
   <br/>
 - <b>BugBounty Writeups</b>
-  - [GraphQL API Broken Access Control Leading to Buyer PII Exposure](https://github.com/askiko/pii_exposure)
-  - [Broken Access Control and Internal Schema Disclosure in an AI/MCP-Orchestrated GraphQL Workflow (Privilege Escalation)](https://github.com/askiko/analiyticsChat_bac/)
+   - [GraphQL API Broken Access Control Leading to Buyer PII Exposure](https://github.com/askiko/pii_exposure)
+   
+   
+   - [Broken Access Control and Internal Schema Disclosure in an AI/MCP-Orchestrated GraphQL Workflow (Privilege Escalation)](https://github.com/askiko/analiyticsChat_bac/)
   <br/>
 - <b>Automation Tools (Python)</b>
   - [Domain mapper & recon tool](https://github.com/askiko/recon_tooling)
