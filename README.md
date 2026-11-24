@@ -23,4 +23,4 @@
 [<img align="left" alt="askiko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [facebook]: https://facebook.com/...
-[linkedin]: https://linkedin.com/in/askiko
+[linkedin]: https://ke.linkedin.com/in/askiko
