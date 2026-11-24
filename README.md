@@ -20,7 +20,7 @@
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="askiko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="askiko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="askiko | Email" src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail" />][email]
 
-[facebook]: https://facebook.com/...
+[email]: mailto:myemail.mail@gmail.com
 [linkedin]: https://ke.linkedin.com/in/askiko
